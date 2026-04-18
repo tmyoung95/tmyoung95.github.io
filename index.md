@@ -9,12 +9,6 @@ computer science capstone portfolio
 
 ---
 
-## > about_me
-
-Write your about section here.
-
----
-
 ## > professional_self_assessment
 
 Write your self assessment here.
@@ -51,8 +45,4 @@ Description here.
 ### enhancement_3 : databases
 Description here.
 
----
 
-## > final_product
-
-Closing section here.
