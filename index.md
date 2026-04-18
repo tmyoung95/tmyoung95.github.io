@@ -23,7 +23,16 @@ Write your self assessment here.
 
 ## > code_review
 
-[Watch Code Review](#)
+<div style="margin-top: 20px;">
+  <iframe 
+    width="100%" 
+    height="400" 
+    src="https://www.youtube.com/watch?v=WwcLFoeCDaw" 
+    title="Code Review Video"
+    frameborder="0"
+    allowfullscreen>
+  </iframe>
+</div>
 
 ---
 
