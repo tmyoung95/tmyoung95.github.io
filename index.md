@@ -61,7 +61,31 @@ Working on this enhancement helped me understand how real authentication systems
 
 
 ### enhancement_2 : algorithms and data structures
-Description here.
+
+This artifact was selected for this enhancement because the while the original application merely displayed location data, it didn’t do anything useful with it other than let the user know the geographic location of an animal. In my conversion of the original artifact into an insurance risk exposure dashboard, I utilized my experience in the insurance field to perform a very useful function in displaying the distance to coast and risk categorization of a policy. The most important components of this artifact that showcase my skills are the implementation of the distance-to-coast calculation and the integration of a structured policy data system. The distance calculation takes a property’s latitude and longitude, finds the closest point on the coastline shape sourced from Natural Earth, and converts that into miles to determine a risk zone like Coastal, Midland, or Inland (Natural Earth, n.d.). This shows my ability to take an industry specific problem and turn it into a working solution using algorithms. I also built out a structured data system using pandas and SQLite, which allows the app to store and process policy data in a clean and organized way. I added a full policy input form with validation to perform an instance of the distance to coast algorithm, and enhancement 3 (databases) will allow for bulk insertion and individual deletion and editing of policies when implemented. Compared to the original version of the artifact, this version actually processes location data and performs more complex functions with it to provide users with utility, especially in a field where older legacy versions force the user to rely on third party tools to do the same. 
+
+In terms of course outcomes, this enhancement primarily supports outcome two, which focuses on implementing algorithms and working with data structures. The distance-to-coast calculation is a direct example of building and applying an algorithm using coordinate-based data. I also worked toward outcome four through the use of Python tools like pandas, geopandas, and shapely to handle and process data within the application. Outcome one is also supported through the way data moves through the system, from user input, through validation, into storage, and then into calculated results shown on the dashboard. 
+
+Working on this enhancement helped me understand how to perform algorithmic processes to geometric data using Shapely (DiTect, n.d.). I also got a lot more comfortable working with dataframes using pandas, especially when adding new fields without breaking everything else (W3Schools.com, n.d.). One of the biggest challenges I faced was integrating all of this into an already complicated app. Since I already had authentication and role-based access in place, adding forms, database updates, and calculations made the callback logic complicated fast. I ran into a lot of issues with Dash callbacks, especially duplicate outputs and getting forms to show and hide correctly. Fixing that helped me better understand the importance of clean formatting and considering the user experience when developing an application. Another challenge was making sure validation errors didn’t crash the app and instead showed clean messages to the user. 
+
+<p><strong>References</strong></p>
+<ul>
+  <li>
+    <a href="https://www.iditect.com/faq/python/coordinates-of-the-closest-points-of-two-geometries-in-shapely.html" target="_blank">
+      DiTect. (n.d.). Coordinates of the closest points of two geometries in Shapely
+    </a>
+  </li>
+  <li>
+    <a href="https://www.naturalearthdata.com/downloads/10m-physical-vectors/10m-coastline/" target="_blank">
+      Natural Earth. (n.d.). Coastline - Free vector and raster map data at multiple scales
+    </a>
+  </li>
+  <li>
+    <a href="https://www.w3schools.com/python/pandas/pandas_dataframes.asp" target="_blank">
+      W3Schools. (n.d.). Pandas DataFrames
+    </a>
+  </li>
+</ul>
 
 ### enhancement_3 : databases
 Description here.
