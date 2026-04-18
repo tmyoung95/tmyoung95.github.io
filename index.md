@@ -88,6 +88,20 @@ Working on this enhancement helped me understand how to perform algorithmic proc
 </ul>
 
 ### enhancement_3 : databases
-Description here.
+
+This artifact was selected for this enhancement because while the original application retrieved and displayed data, it lacked more intuitive means of adding files and performing more intricate querying for filters. I implemented a SQLite database and created a structured policy data system that allows the application to store and manage its own data (GeeksforGeeks, 2025). The most important components of this artifact that showcase my skills are the database system and the separation of logic into files like database.py and validation.py. The database.py file handles storing and retrieving policy records, while validation.py makes sure all user input is clean and valid before being saved. This shows my ability to keep code organized and easier to work with. I also added a policy input form that connects directly to the database so users can create new records. In addition to the single policy addition form, I added the ability to upload a CSV file, where duplicate policy numbers are skipped so the database does not store duplicates. I also added query based filters so users can view data by things like state and county, which makes the dashboard more useful. Compared to the original version, this version can store, manage, and filter its own data instead of just displaying what already exists, which makes it much more useful in an industry specific setting. 
+
+In terms of course outcomes, this enhancement primarily supports outcome one, which focuses on building systems that allow users to interact with data in a way that supports decision making. By allowing users to input, store, and view policy data within the application via multiple ways (CSV and single input), the dashboard becomes a more useful tool to visualize important data that may influence organizational decisions. I also worked toward outcome four through the use of Python, SQLite, and modular design to create a working system that handles data input, validation, storage, and display. The use of separate files for validation and database logic demonstrates the adherence to object oriented programming, and shows that I can keep program designs modular and readable for easier maintenance and collaboration. 
+
+Working on this enhancement helped me better understand how important good database functionality is in program development. I got more comfortable using SQLite, writing queries, and structuring data so it can be manipulated into useful visualizations. The biggest challenge I faced was getting the CSV upload to function properly, as well as the duplication skip for preexisting policies. I had to make sure the file was read correctly, that the data matched the expected format, and that duplicate policy numbers were skipped without breaking the database. Getting that logic to work cleanly alongside the rest of the app took a lot of trial and error. I also had to make sure invalid inputs never made it into the database, which meant tightening up validation and making sure errors were shown clearly to the user instead of crashing the app or generating callback errors on Dash.
+
+<p><strong>References</strong></p>
+<ul>
+  <li>
+    <a href="https://www.geeksforgeeks.org/sqlite/sqlite-tutorial/" target="_blank">
+      GeeksforGeeks. (2025, July 23). SQLite Tutorial
+    </a>
+  </li>
+</ul>
 
 
