@@ -3,11 +3,6 @@ layout: default
 title: Home
 ---
 
-# > tyler_young
-
-computer science capstone portfolio
-
----
 
 ## > professional_self_assessment
 
