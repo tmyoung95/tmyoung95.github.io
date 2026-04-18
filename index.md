@@ -35,7 +35,12 @@ Write your self assessment here.
 
 ## > artifacts
 
-All original and enahncement artifacts can be found here: https://github.com/tmyoung95/tmyoung95.github.io
+<p>
+  All original and enhancement artifacts can be retrieved at the following repository link:
+  <a href="https://github.com/tmyoung95/tmyoung95.github.io" target="_blank">
+    GitHub Repository
+  </a>
+</p>
 
 ### enhancement_1 : software design and engineering
 Description here.
