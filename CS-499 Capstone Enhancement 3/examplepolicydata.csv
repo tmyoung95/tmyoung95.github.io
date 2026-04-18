@@ -1,0 +1,31 @@
+policy_number,address,city,county,state,zip,lat,lon,premium,product,phone,email,dwelling_coverage,deductible,policy_status
+P0001,120 Ocean Ave,Miami,Miami-Dade,FL,33139,25.7906,-80.13,1850,HO3,3055551001,p1@test.com,350000,2500,Active
+P0002,130 Ocean Ave,Miami,Miami-Dade,FL,33139,25.7912,-80.1312,1900,HO3,3055551002,p2@test.com,355000,2500,Active
+P0003,440 Harbor Rd,San Diego,San Diego,CA,92101,32.7157,-117.1611,980,HO6,6195551003,p3@test.com,120000,1000,Active
+P0004,441 Harbor Rd,San Diego,San Diego,CA,92101,32.7165,-117.162,1020,HO6,6195551004,p4@test.com,130000,1000,Active
+P0005,91 Coastal Hwy,Wilmington,New Hanover,NC,28401,34.2257,-77.9447,650,Vacant,9105551005,p5@test.com,180000,5000,Active
+P0006,95 Coastal Hwy,Wilmington,New Hanover,NC,28401,34.2265,-77.946,700,Vacant,9105551006,p6@test.com,200000,5000,Active
+P0007,442 Maple St,Dallas,Dallas,TX,75201,32.7767,-96.797,1200,Dwelling,2145551007,p7@test.com,250000,2500,Active
+P0008,455 Maple St,Dallas,Dallas,TX,75201,32.7758,-96.7985,1150,Dwelling,2145551008,p8@test.com,245000,2500,Active
+P0009,210 Market St,San Francisco,San Francisco,CA,94105,37.7749,-122.4194,5200,Commercial Package,4155551009,p9@test.com,950000,5000,Active
+P0010,215 Market St,San Francisco,San Francisco,CA,94105,37.7756,-122.4188,5400,Commercial Package,4155551010,p10@test.com,975000,5000,Active
+P0011,88 Atlantic Blvd,Jacksonville,Duval,FL,32207,30.3322,-81.6557,4300,Commercial Property,9045551011,p11@test.com,800000,5000,Active
+P0012,91 Atlantic Blvd,Jacksonville,Duval,FL,32207,30.333,-81.654,4600,Commercial Property,9045551012,p12@test.com,825000,5000,Active
+P0013,740 Sunset Blvd,Los Angeles,Los Angeles,CA,90028,34.098,-118.3295,2100,HO3,3235551013,p13@test.com,420000,2500,Active
+P0014,755 Sunset Blvd,Los Angeles,Los Angeles,CA,90028,34.0971,-118.33,2200,HO3,3235551014,p14@test.com,440000,2500,Active
+P0015,122 Oak St,Chicago,Cook,IL,60601,41.8781,-87.6298,1350,Dwelling,3125551015,p15@test.com,260000,2500,Active
+P0016,128 Oak St,Chicago,Cook,IL,60601,41.879,-87.6284,1325,Dwelling,3125551016,p16@test.com,255000,2500,Active
+P0017,50 Pier St,Charleston,Charleston,SC,29401,32.7765,-79.9311,720,Vacant,8435551017,p17@test.com,210000,5000,Active
+P0018,55 Pier St,Charleston,Charleston,SC,29401,32.7756,-79.9322,740,Vacant,8435551018,p18@test.com,215000,5000,Active
+P0019,311 Bay St,Tampa,Hillsborough,FL,33602,27.9506,-82.4572,990,HO6,8135551019,p19@test.com,135000,1000,Active
+P0020,315 Bay St,Tampa,Hillsborough,FL,33602,27.9514,-82.458,1010,HO6,8135551020,p20@test.com,140000,1000,Active
+P0021,12 Beach Dr,Corpus Christi,Nueces,TX,78401,27.8006,-97.3964,1750,HO3,3615551021,p21@test.com,340000,2500,Active
+P0022,13 Beach Dr,Corpus Christi,Nueces,TX,78401,27.8012,-97.3955,1820,HO3,3615551022,p22@test.com,350000,2500,Active
+P0023,100 Business Rd,Houston,Harris,TX,77002,29.7604,-95.3698,6000,Commercial Package,7135551023,p23@test.com,1200000,5000,Active
+P0024,102 Business Rd,Houston,Harris,TX,77002,29.7611,-95.3702,6100,Commercial Package,7135551024,p24@test.com,1220000,5000,Active
+P0025,45 Industrial Pkwy,Atlanta,Fulton,GA,30303,33.749,-84.388,4800,Commercial Property,4045551025,p25@test.com,900000,5000,Active
+P0026,48 Industrial Pkwy,Atlanta,Fulton,GA,30303,33.7483,-84.3895,4900,Commercial Property,4045551026,p26@test.com,910000,5000,Active
+P0027,700 Pine St,Seattle,King,WA,98101,47.6062,-122.3321,1500,Dwelling,2065551027,p27@test.com,300000,2500,Active
+P0028,710 Pine St,Seattle,King,WA,98101,47.6071,-122.3312,1520,Dwelling,2065551028,p28@test.com,305000,2500,Active
+P0029,80 Harbor Blvd,Long Beach,Los Angeles,CA,90802,33.7701,-118.1937,1100,HO6,5625551029,p29@test.com,150000,1000,Active
+P0030,82 Harbor Blvd,Long Beach,Los Angeles,CA,90802,33.771,-118.1942,1120,HO6,5625551030,p30@test.com,155000,1000,Active
