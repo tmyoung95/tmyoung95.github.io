@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-# > tyler_
+# > tyler_young
 
 computer science capstone portfolio
 
@@ -11,7 +11,17 @@ computer science capstone portfolio
 
 ## > professional_self_assessment
 
-Write your self assessment here.
+Completing this program and building this ePortfolio helped me understand how to apply what I learned in a practical way and most importantly, how to integrate these skills to fulfill needs in specific professional environments. Initially, I focused on how the original dashboard could be improved to fit a real world use case, and over time I shifted to optimizing routines I was already familiar with in my professional experience . This portfolio reflects that shift and shows how I approach development with a focus on solving real problems with a surgical attention to detail to make programs that are easy to use, maintain, and scale as need be.
+
+Throughout the program, I developed stronger skills in collaboration and communication. Working in group environments taught me how to stay organized, rely on others, and document processes for seamless communication and task distribution. I became more adept at recognizing strengths, weaknesses, and opportunities for growth, and leveraged all three to ensure each iteration of development optimized the wellbeing of the project as well as the wellbeing of all team members.  I also became more comfortable explaining technical concepts in a clear way, especially to non-technical audiences, which is important when working with stakeholders who need to understand what a system does and why it matters.
+
+I also built a stronger foundation in data structures and algorithms. Instead of only focusing on whether something works, I started thinking about how data is organized and how it flows through a system. This changed how I approach problem solving and helped me build solutions that are more consistent and easier to maintain. Throughout the development of this project, I made sure to think of all ways that the data collected could be utilized for better organization and program flexibility to accomodate a multitude of use cases. 
+
+My experience with software engineering and databases helped me understand how to design applications in a structured and organized way. I learned how to separate logic into different parts so the system is easier to manage and scale, and I became more comfortable working with stored data, queries, and user input. These skills are important when building applications that need to handle real data reliably.
+
+Security is now something I consider a critical element of the development process rather than a featurer. I learned to think about how systems can be misused and how to prevent that through proper validation, controlled access, and safer handling of sensitive data. This alone inspired my firsst attempt at an MFA system and RBAC structures to ensure that data was as protected as possible. Throughout this porject, I was aware of my responsibilites as a developer to the end user and their data, understanding that computer scientists and software engineers must consider the consequences of poorly secured programs and the user's right to privacy.  
+
+The artifacts in this portfolio reflect these skills across different areas of computer science. Each one focuses on a specific aspect of development, including system design, working with data and algorithms, and managing, storing, and validating information. Together, they show how I build applications that are structured, functional, and aligned with real world needs. The sections that follow provide the technical details and examples that support these skills and demonstrate my overall growth as a developer.
 
 ---
 
